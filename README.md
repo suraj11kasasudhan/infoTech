@@ -6,3 +6,9 @@ Dashboard Screen: The main screen after a successful login.
 Validation: password, email, and age validation.
 Keychain: Storing and retrieving authentication tokens securely.
 Logout: Clearing session and navigating back to the root.
+
+
+
+https://github.com/user-attachments/assets/38b86e77-7e0a-4798-b3ca-83137b61ef83
+
+
